@@ -1,0 +1,2 @@
+C:/Users/gurug/OneDrive/Desktop/grocery_app - Copy/android/app/.cxx/Debug/v1z31zc3/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/gurug/OneDrive/Desktop/grocery_app - Copy/android/app/.cxx/Debug/v1z31zc3/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/gurug/OneDrive/Desktop/fashion_app/android/app/.cxx/Debug/35f3f632/x86/CMakeFiles/edit_cache.dir
+C:/Users/gurug/OneDrive/Desktop/fashion_app/android/app/.cxx/Debug/35f3f632/x86/CMakeFiles/rebuild_cache.dir
